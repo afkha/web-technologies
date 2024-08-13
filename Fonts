@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Font</title>
+    <style>
+        h1, h2, h3 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: red">Welcome to the Mohan Babu university</h1>
+    <h2> Data Science Department</h2>
+    <h3>Tirupathi</h3>
+</body>
+</html>
